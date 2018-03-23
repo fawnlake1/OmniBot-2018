@@ -9,15 +9,15 @@ v1.0... Initial code development
 
 Large scale robot based on 24v wheelchair motors and omni wheel castors.
 
-## Purpose?
+## Purpose
 
+IoT Incubator 
 Play with pets remotely  
 Learn and tinker  
 Home security and monitoring  
 Remote viewing   
 Proof of concept  
 “Wow” factor & Sense of accomplishment  
-IoT Incubator  
 
 ## Contributing
 
