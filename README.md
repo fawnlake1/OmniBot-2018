@@ -1,11 +1,9 @@
-# OmniBot-2018
-
-## OmniBot 2018 Robot Project
+# OmniBot 2018 Robot Project
 
 ## Versions
 
-v0.5... Layout the various modules and start repository
-v1.0... Initial code development  
+v0.5... Layout the various modules and start repository  
+v1.0... Initial code development    
 
 ## Description
 
